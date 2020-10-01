@@ -1,6 +1,6 @@
 scan7
 =====
-
+License
 Tool to communicate with Siemens S7 PLCs.
 This tool is based on Snap7 library, as well as the Python wrapper.
 Install docs can be found here : http://python-snap7.readthedocs.org/en/latest/installation.html
